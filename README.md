@@ -7,7 +7,7 @@ Circular Slider View
 [![Swift 5](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
 ## Example
-<img src="https://github.com/Jigneshmayani90/CircularSlider/blob/master/sample.gif" width="200">
+<img src="https://github.com/Jigneshmayani90/CircularSlider/blob/main/sample.gif" width="200">
 
 ## Requirements
 
